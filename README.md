@@ -1,5 +1,3 @@
-# Gkgondaliya
-
 Hi there 👋
 
 👋 Hi, I’m Girish Gondaliya
