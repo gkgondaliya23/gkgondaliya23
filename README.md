@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=HTML5&logoColor=orenge)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS&logoColor=fff)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS3&logoColor=blue)&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript-555?style=flat&logo=javascript&logoColor=yellow)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
