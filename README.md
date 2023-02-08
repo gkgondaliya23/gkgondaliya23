@@ -25,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=Postman&logoColor=FF5F1F)&nbsp;
+![MySQL](https://img.shields.io/badge/-MYSQL-555?style=flat&logo=MySQL&logoColor=orange)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-555?style=flat&logo=Json)&nbsp;
 
 
