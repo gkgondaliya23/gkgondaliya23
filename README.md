@@ -20,12 +20,15 @@
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=HTML5&logoColor=orenge)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS3&logoColor=blue)&nbsp;
-![javascript](https://img.shields.io/badge/-javascript-555?style=flat&logo=javascript&logoColor=yellow)&nbsp;\
+![javascript](https://img.shields.io/badge/-javascript-555?style=flat&logo=javascript&logoColor=yellow)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node-555?style=flat&logo=node.js&logoColor=green)&nbsp;
+![Express](https://img.shields.io/badge/-Express-555?style=flat&logo=express&logoColor=white)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=Postman&logoColor=FF5F1F)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MYSQL-555?style=flat&logo=MySQL&logoColor=orange)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongoDb&logoColor=green)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-555?style=flat&logo=Json)&nbsp;
 
 
