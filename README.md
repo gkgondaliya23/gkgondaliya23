@@ -22,7 +22,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS3&logoColor=blue)&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript-555?style=flat&logo=javascript&logoColor=yellow)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node-555?style=flat&logo=node.js&logoColor=green)&nbsp;
-![Express](https://img.shields.io/badge/-Express-555?style=flat&logo=express&logoColor=white)&nbsp;\
+![Express](https://img.shields.io/badge/-Express-555?style=flat&logo=express&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-555?style=flat&logo=typescript&logoColor=blue)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
